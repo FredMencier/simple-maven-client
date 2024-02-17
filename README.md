@@ -1,1 +1,2 @@
-# simple-maven-client
+# Simple maven client
+Utilise la lib financial
